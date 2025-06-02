@@ -1,1 +1,0 @@
-nohup python gen_topk.py > gen_topk.log 2>&1 &

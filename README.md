@@ -1,6 +1,7 @@
 # A Brief Description of Source Code for Submission 1168
 
-Paper Title: What Contributes More for Recommendation Serendipity? Factor Investigation and Large-Scale Experimental Analysis
+Paper information: 
+Wenjun Jiang, Song Li, Xueqi Li, Kenli Li, and Jie Wu. 2025. Uncovering Recommendation Serendipity with Objective Data-driven Factor Investigation. ACM Trans. Inf. Syst. 43, 6, Article 164 (November 2025), 33 pages. https://doi.org/10.1145/3758092
 
 ## Environment Settings
 - pandas == 1.1.3
